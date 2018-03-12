@@ -19,11 +19,14 @@ The test will be considered complete when you send a link to your repo.
 
 You can look at this for reference: https://trends.google.com/trends/. In the end if we search for a topic via your web app ie: Star Wars we would like to see the interest over time and the interest by region(the bar chart) being pulled from the api. No need for all the extra functionality(export/login/register), we just want the visual representation of api data in an efficient manner.
 
-Lastly, if you can please provide a portion of the data stored in a database(mySQL). This is to support the idea to optimally store a large amount of data.
+# 3. Database Knowledge
 
-# 3. Suggest an improvement to the test
+Please provide a portion of the data stored in a database(mySQL/PostgreSQL). This is to support the idea on how to optimally store a large amount of data.
+
+# 4. Suggest an improvement to the test
 
 We believe in collective knowledge. Suggest a way (any constructive way) that can improve this test.
-Work at Continuon
-We obviously supply things like coffee and beer. However, what we are is a team of people that love technology and learning.
+
+# Work at Continuon
+We obviously supply things like coffee and beer. However, what we are is a team of people that love technology and learning. If you are interested please email us at info@continuon.co
 

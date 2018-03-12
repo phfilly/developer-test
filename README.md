@@ -5,11 +5,11 @@ This test has been designed to test the fundamentals required to work at Continu
 
 # We will test for the following:
 
-Ability to work with version control
-Understanding of PHP/Python
-Ability to work with APIs
-Ability to solve logic problems
-Database Architecture
+1. Ability to work with version control
+2. Understanding of PHP/Python
+3. Ability to work with APIs
+4. Ability to solve logic problems
+5. Database Architecture
 
 # 1. Create a Github or Bitbucket repository
 
